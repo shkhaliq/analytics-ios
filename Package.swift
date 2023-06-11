@@ -24,7 +24,7 @@ let package = Package(
         .target(
             name: "InstacartSegment",
             dependencies: [],
-            path: "Segment/",
+            path: "InstacartSegment/",
             sources: ["Classes", "Internal"],
             publicHeadersPath: "Classes",
             cSettings: [
