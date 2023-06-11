@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EADEB85A1DECD080005322DA"
-               BuildableName = "Segment.framework"
-               BlueprintName = "Segment"
-               ReferencedContainer = "container:Segment.xcodeproj">
+               BuildableName = "InstacartSegment.framework"
+               BlueprintName = "InstacartSegment"
+               ReferencedContainer = "container:InstacartSegment.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,9 +32,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EADEB85A1DECD080005322DA"
-            BuildableName = "Segment.framework"
-            BlueprintName = "Segment"
-            ReferencedContainer = "container:Segment.xcodeproj">
+            BuildableName = "InstacartSegment.framework"
+            BlueprintName = "InstacartSegment"
+            ReferencedContainer = "container:InstacartSegment.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EADEB8691DECD0EF005322DA"
-               BuildableName = "SegmentTests.xctest"
-               BlueprintName = "SegmentTests"
-               ReferencedContainer = "container:Segment.xcodeproj">
+               BuildableName = "InstacartSegmentTests.xctest"
+               BlueprintName = "InstacartSegmentTests"
+               ReferencedContainer = "container:InstacartSegment.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -64,9 +64,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EADEB85A1DECD080005322DA"
-            BuildableName = "Segment.framework"
-            BlueprintName = "Segment"
-            ReferencedContainer = "container:Segment.xcodeproj">
+            BuildableName = "InstacartSegment.framework"
+            BlueprintName = "InstacartSegment"
+            ReferencedContainer = "container:InstacartSegment.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EADEB85A1DECD080005322DA"
-            BuildableName = "Segment.framework"
-            BlueprintName = "Segment"
-            ReferencedContainer = "container:Segment.xcodeproj">
+            BuildableName = "InstacartSegment.framework"
+            BlueprintName = "InstacartSegment"
+            ReferencedContainer = "container:InstacartSegment.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
